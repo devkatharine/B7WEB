@@ -1,0 +1,29 @@
+body{
+  background-color: #e4b3e1;
+}
+
+
+button{
+  width: 300px;
+  padding: 30px;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgb(213, 59, 248);
+  color: white; 
+  border: 0;
+  border-radius: 40px;
+  cursor: pointer;
+}
+
+.botao{
+  margin: 50px;
+  text-align: center;
+}
+
+#posts{
+  background-color: #e4b3e1;
+  margin: 50px;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
